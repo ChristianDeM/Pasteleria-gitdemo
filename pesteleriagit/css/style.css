@@ -1,0 +1,223 @@
+body{
+background-color: white;
+}
+
+.nav-link{
+  font-size: 20px;
+  text-align: end;
+  color: #DBC4EA;
+  padding-left:2rem;
+ 
+ 
+}
+
+a:hover { color: rgb(234, 196, 230) !important; }
+
+.navbar-toggler-icon{
+ color: white;
+}
+
+
+.Baner1{
+  background-image: url("../img/baner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height:100%;
+
+}
+
+
+
+
+.fondodiseño{
+  background-color: #ffffff;
+opacity: 1;
+background-size: 40px 40px;
+background-image: repeating-linear-gradient(45deg, #DBC4EA 0, #DBC4EA 4px, #ffffff 0, #ffffff 50%);
+  
+}
+
+.info{ 
+  margin: auto;
+  background-color: #ffffff85;
+  
+}
+
+.info span{
+font-size:4rem;
+font-family:Josefin Sans;
+text-align: center;
+
+
+}
+
+
+.info h5{
+  font-family: Lobster;
+  font-size: 1.5rem;
+  padding-bottom: 1rem;
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+
+
+
+p{
+ font-family:Josefin Sans;
+ font-size: 25px;
+}
+
+.fondo{
+  background-color: gray;
+}
+ .logo{
+  width:auto;
+  height: auto; 
+  margin:auto;
+	text-align:center;
+ 
+ }
+
+ .parallax {
+  /* The image used */
+  background-image: url("../img/parallax.jpg");
+
+  /* Set a specific height */
+  min-height: 800px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.spans{
+  text-align: center;
+  font-size: 6.5em;
+  font-weight: 500;
+  padding-top: 2.5em;
+  color: #ffffff;
+  font-family:Lobster;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("../img/parallax2.jpg");
+
+  /* Set a specific height */
+  min-height: 800px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ 
+.menu{
+  padding-top: 5%;
+  background-color: #ffffff;
+  opacity: 1;
+  background-image:  radial-gradient(#DBC4EA 2px, transparent 2px), radial-gradient(#DBC4EA 2px, #ffffff 2px);
+  background-size: 80px 80px;
+  background-position: 0 0,40px 40px;
+}
+
+.armado{
+  color: black;
+  padding-top: 40px;
+
+}
+
+.armado h3{
+  font-size: 4.5rem;
+  text-align: center;
+  font-family: Lobster;
+}
+
+.armado h4{
+  text-align: center;
+  padding-top: 6px;
+  font-size: larger;
+  font-family: lobster;
+}
+
+.card{
+  text-align: center;
+  color: black;
+  align-items: center;
+  align-items: center ;
+  margin: auto;  
+  position: relative; 
+
+}
+
+.formulario{
+  align-items: center;
+  align-content: center;
+  padding-top: 5.5rem;
+  padding-left: 5.5rem;
+  padding-right: 5.5rem;
+    
+}
+.final{
+  background-color: #ffffff;
+  opacity: 1;
+  background: repeating-linear-gradient( 45deg, #ffd4d4, #ffd4d4 20px, #ffffff 20px, #ffffff 100px );
+  min-height: 200px
+}
+
+.pie{
+  background-color: grey;
+}
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+
+
+.card {
+  background-color: #EADBC4;
+  /* just in case there no content*/
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  /* shadows and rounded borders */
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+.form-check-input:checked {
+  background-color: #DBC4EA;
+  border-color: #EAC8C4;
+}
+
+.btn.btnmenu{
+background-color: #DBC4EA;
+text-decoration-color: #DBC4EA;
+
+}
+
